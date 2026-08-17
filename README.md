@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dev.anthonyed@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[devsanthony.com](devsanthony.com)**
+- 👨‍💻 All of my projects are available at **([devsanthony](https://www.devsanthony.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

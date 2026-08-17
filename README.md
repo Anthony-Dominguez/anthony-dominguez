@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anthony Dominguez
 
-### An experienced Python developer
+### An experienced Software developer
 
 - 🔭 I'm currently working on **TechFlow Agentic Chat**
 
